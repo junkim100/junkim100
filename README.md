@@ -53,5 +53,3 @@ I'm currently pursuing my Ph.D. at at [Korea University](https://www.korea.edu)'
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?style=for-the-badge&logo=linkedin&color=black" />](https://linkedin.com/in/junkim100/)
 [<img src="https://img.shields.io/badge/Google%20Scholar-%2312100E.svg?style=for-the-badge&color=black" />](https://scholar.google.com/citations?user=ZE8__uoAAAAJ)
 </p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=junkim100&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dong Jun's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junkim100&layout=compact&theme=buefy&hide_border=true" /></
