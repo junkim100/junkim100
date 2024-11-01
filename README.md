@@ -45,20 +45,6 @@ I'm currently pursuing my Ph.D. at at [Korea University](https://www.korea.edu)'
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-%2320B2AA.svg?style=for-the-badge)
 ![TensorRT Optimization](https://img.shields.io/badge/TensorRT-%2300ADEF.svg?style=for-the-badge)
 
-## Selected Projects
-
-### 1. **LLM Interpretability Framework**
-Developed a novel framework for visualizing and explaining the decision pathways of large language models, focusing on circuit-level analysis to enhance model transparency.
-
-### 2. **Efficient Fine-tuning of LLMs for Domain-Specific Tasks**
-Created an efficient fine-tuning method for large language models, achieving state-of-the-art performance on domain-specific tasks while minimizing computational overhead.
-
-### 3. **Sparse Autoencoders for LLM Circuit Analysis**
-Designed sparse autoencoders to explore the internal circuits of LLMs, improving our understanding of how specific components contribute to model behavior.
-
-### 4. **Retrieval-Augmented Generation (RAG) Integration**
-Integrated RAG techniques into large-scale language models, significantly improving information retrieval capabilities and response accuracy.
-
 ## Connect with me:
 
 <p align="center">
